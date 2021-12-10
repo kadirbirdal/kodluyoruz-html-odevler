@@ -1,4 +1,5 @@
-# Kodluyoruz HTML Modülü Ödev 1
+# Kodluyoruz HTML Modülü Ödevler
+## Ödev 1
 
 * Başlık etiketi kullanıldı
 * Paragraf etiketi kullanıldı
