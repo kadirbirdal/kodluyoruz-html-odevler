@@ -1,2 +1,5 @@
-# kodluyoruz-html-odev1
-Kodluyoruz HTML modülü ödev 1
+# Kodluyoruz HTML Modülü Ödev 1
+
+* Başlık etiketi kullanıldı
+* Paragraf etiketi kullanıldı
+* Yorum satırları kullanıldı
