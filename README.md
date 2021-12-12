@@ -10,3 +10,7 @@
 * Sıralı ve sırasız liste etiketleri kullanıldı
 * Resim etiketi kullanıldı
 * Link etiketi kullanıldı
+
+## Alıştırma - Ödev 3
+
+* Şimdiye kadarki öğrendiğim tüm etiketler ve yapılar kullanıldı
